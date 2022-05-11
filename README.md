@@ -2,12 +2,13 @@
  
 I'm Hoa T. Nguyen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Javascript and BlockChain
-- 👯 I’m looking to collaborate on Dev.to and CodeSandbox
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Javascript and ReactJS.
+- 🌱 I’m currently learning BlockChain.
+- 👯 I’m looking to collaborate on 
+     [Dev.to](https://dev.to/hoanguyentran), 
+     [CodeSandbox](https://codesandbox.io/u/HoaNguyenTran),
+     [Leetcode](https://leetcode.com/HoaNguyenTran/).
+- 📫 How to reach me: [my gmail](hoanguyentrandev@gmail.com).
+- 😄 Pronouns: He/His
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoaNguyenTran)](https://github.com/anuraghazra/github-readme-stats)
