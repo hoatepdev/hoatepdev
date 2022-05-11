@@ -1,6 +1,9 @@
 ### Hi there 👋
  
-I'm Hoa T. Nguyen
+# I'm Hoa T. Nguyen a.k.a hoatep.
+Become a developer not a coder! 🌻
+
+
 
 - 🔭 I’m currently working on Javascript and ReactJS.
 - 🌱 I’m currently learning BlockChain.
@@ -8,7 +11,7 @@ I'm Hoa T. Nguyen
      [Dev.to](https://dev.to/hoanguyentran), 
      [CodeSandbox](https://codesandbox.io/u/HoaNguyenTran),
      [Leetcode](https://leetcode.com/HoaNguyenTran/).
-- 📫 How to reach me: [my gmail](hoanguyentrandev@gmail.com).
+- 📫 How to reach me: [Gmail](hoanguyentrandev@gmail.com).
 - 😄 Pronouns: He/His
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoaNguyenTran)](https://github.com/anuraghazra/github-readme-stats)
