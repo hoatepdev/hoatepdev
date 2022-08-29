@@ -6,7 +6,6 @@ Become a developer not a coder! 🌻
 
 
 - 🔭 I’m currently working on Javascript and ReactJS.
-- 🌱 I’m currently learning BlockChain.
 - 👯 I’m looking to collaborate on 
      [Dev.to](https://dev.to/hoanguyentran), 
      [CodeSandbox](https://codesandbox.io/u/HoaNguyenTran),
