@@ -17,6 +17,9 @@ Become a developer not a coder! 🌻
 
 
 ---
+![Leetcode Stats](https://leetcard.jacoblin.cool/hoatep_dev?theme=dark&font=Baloo%202&ext=heatmap)
+
+
 
 ### Frontend
 
