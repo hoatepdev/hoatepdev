@@ -13,7 +13,7 @@ Become a developer not a coder! 🌻
 - 📫 How to reach me: [Gmail](hoanguyentrandev@gmail.com).
 - 😄 Pronouns: He/His
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoaNguyenTran)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoatepdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
