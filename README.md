@@ -2,7 +2,7 @@
 
 # I'm Hoa T. Nguyen.
 
-Just a boy passionate about coding
+Just a boy passionate about coding.
 Become a developer not a coder! 🌻
 
 - 🔭 I’m currently working on Javascript.
