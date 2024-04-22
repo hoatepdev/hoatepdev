@@ -9,7 +9,7 @@ Become a developer not a coder! 🌻
 - 👯 I’m looking to collaborate on
   [Dev.to](https://dev.to/hoanguyentran),
   [CodeSandbox](https://codesandbox.io/u/HoaNguyenTran),
-  [Leetcode](https://leetcode.com/HoaNguyenTran/).
+  [Leetcode](https://leetcode.com/hoatep_dev/).
 - 📫 How to reach me: [Gmail](hoanguyentrandev@gmail.com).
 - 😄 Pronouns: He/His
 
