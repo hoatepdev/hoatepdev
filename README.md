@@ -7,7 +7,7 @@ Become a developer not a coder! 🌻
 
 - 🔭 I’m currently working on Javascript.
 - 👯 I’m looking to collaborate on
-  [Dev.to](https://dev.to/hoanguyentran),
+  [Dev.to](https://dev.to/hoatepdev),
   [CodeSandbox](https://codesandbox.io/u/HoaNguyenTran),
   [Leetcode](https://leetcode.com/hoatep_dev/).
 - 📫 How to reach me: [Gmail](hoanguyentrandev@gmail.com).
