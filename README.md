@@ -1,4 +1,4 @@
-s### Hi there 👋
+### Hi there 👋
 
 # I'm Hoa T. Nguyen.
 
@@ -14,7 +14,6 @@ Become a developer not a coder! 🌻
 - 😄 Pronouns: He/His
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoatepdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Leetcode Stats](https://leetcard.jacoblin.cool/hoatep_dev?height=195)
 
 ---
 
